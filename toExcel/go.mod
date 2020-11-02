@@ -1,4 +1,4 @@
-module tools
+module toExcel
 
 go 1.13
 
